@@ -4,7 +4,11 @@
 
 **Bio:**
 
-I'm a Computer Science student at UIC, a Webflow enthusiast, and I love UI/UX design work in Figma.
+Welcome to my profile! 
+
+I'm a Computer Science student at UIC, a Webflow enthusiast, and I love UI/UX design work in Figma. Currently designing and building full scale Webflow web sites for freelance clients! 
+
+Currently, pursuing AWS solutions architect certification! 
 
 
 **Programming Languages**
